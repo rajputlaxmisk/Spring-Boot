@@ -1,0 +1,115 @@
+2020-06-19 13:09:25.734  INFO 32526 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on laxmi-Lenovo-G50-80 with PID 32526 (/home/laxmi/Documents/workspace-spring-tool-suite-4-4.6.2.RELEASE/demo/target/classes started by laxmi in /home/laxmi/Documents/workspace-spring-tool-suite-4-4.6.2.RELEASE/demo)
+2020-06-19 13:09:25.756  INFO 32526 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2020-06-19 13:09:27.918  INFO 32526 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2020-06-19 13:09:27.930  INFO 32526 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-06-19 13:09:27.931  INFO 32526 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-06-19 13:09:28.056  INFO 32526 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-06-19 13:09:28.057  INFO 32526 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2139 ms
+2020-06-19 13:09:28.438  INFO 32526 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-19 13:09:28.833  INFO 32526 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2020-06-19 13:09:28.862  INFO 32526 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 4.433 seconds (JVM running for 6.233)
+2020-06-19 13:10:28.199  INFO 32526 --- [RMI TCP Connection(9)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-06-19 13:10:28.269  INFO 32526 --- [RMI TCP Connection(9)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-19 14:08:41.856  INFO 2383 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on laxmi-Lenovo-G50-80 with PID 2383 (/home/laxmi/Documents/workspace-spring-tool-suite-4-4.6.2.RELEASE/demo/target/classes started by laxmi in /home/laxmi/Documents/workspace-spring-tool-suite-4-4.6.2.RELEASE/demo)
+2020-06-19 14:08:41.877  INFO 2383 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2020-06-19 14:08:43.244  INFO 2383 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2020-06-19 14:08:43.254  INFO 2383 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-06-19 14:08:43.255  INFO 2383 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-06-19 14:08:43.353  INFO 2383 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-06-19 14:08:43.353  INFO 2383 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1403 ms
+2020-06-19 14:08:43.644  INFO 2383 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-19 14:08:44.049  INFO 2383 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2020-06-19 14:08:44.064  INFO 2383 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 2.881 seconds (JVM running for 3.824)
+2020-06-19 14:09:15.479  INFO 2383 --- [http-nio-8090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-19 14:09:15.479  INFO 2383 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-06-19 14:09:15.491  INFO 2383 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 12 ms
+2020-06-19 14:11:02.905  INFO 2703 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on laxmi-Lenovo-G50-80 with PID 2703 (/home/laxmi/Documents/workspace-spring-tool-suite-4-4.6.2.RELEASE/demo/target/classes started by laxmi in /home/laxmi/Documents/workspace-spring-tool-suite-4-4.6.2.RELEASE/demo)
+2020-06-19 14:11:02.909  INFO 2703 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2020-06-19 14:11:04.201  INFO 2703 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2020-06-19 14:11:04.213  INFO 2703 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-06-19 14:11:04.215  INFO 2703 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-06-19 14:11:04.282  INFO 2703 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-06-19 14:11:04.283  INFO 2703 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1284 ms
+2020-06-19 14:11:04.593  INFO 2703 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-19 14:11:04.980  WARN 2703 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8090 is already in use
+2020-06-19 14:11:04.982  INFO 2703 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-19 14:11:04.987  INFO 2703 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2020-06-19 14:11:05.006  INFO 2703 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-06-19 14:11:05.014 ERROR 2703 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8090 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8090 or configure this application to listen on another port.
+
+2020-06-19 14:11:10.336  INFO 2383 --- [RMI TCP Connection(11)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-06-19 14:11:10.423  INFO 2383 --- [RMI TCP Connection(11)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-19 14:11:13.491  INFO 2959 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on laxmi-Lenovo-G50-80 with PID 2959 (/home/laxmi/Documents/workspace-spring-tool-suite-4-4.6.2.RELEASE/demo/target/classes started by laxmi in /home/laxmi/Documents/workspace-spring-tool-suite-4-4.6.2.RELEASE/demo)
+2020-06-19 14:11:13.496  INFO 2959 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2020-06-19 14:11:14.642  INFO 2959 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2020-06-19 14:11:14.652  INFO 2959 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-06-19 14:11:14.652  INFO 2959 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-06-19 14:11:14.708  INFO 2959 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-06-19 14:11:14.709  INFO 2959 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1142 ms
+2020-06-19 14:11:14.914  INFO 2959 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-19 14:11:15.174  INFO 2959 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2020-06-19 14:11:15.197  INFO 2959 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 2.152 seconds (JVM running for 2.806)
+2020-06-19 14:11:31.166  INFO 2959 --- [http-nio-8090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-19 14:11:31.166  INFO 2959 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-06-19 14:11:31.173  INFO 2959 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2020-06-19 14:20:33.307  INFO 3938 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on laxmi-Lenovo-G50-80 with PID 3938 (/home/laxmi/Documents/workspace-spring-tool-suite-4-4.6.2.RELEASE/demo/target/classes started by laxmi in /home/laxmi/Documents/workspace-spring-tool-suite-4-4.6.2.RELEASE/demo)
+2020-06-19 14:20:33.363  INFO 3938 --- [main] com.example.demo.DemoApplication         : The following profiles are active: cleaninstall,clean install
+2020-06-19 14:20:36.834  INFO 3938 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2020-06-19 14:20:36.860  INFO 3938 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-06-19 14:20:36.861  INFO 3938 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-06-19 14:20:37.015  INFO 3938 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-06-19 14:20:37.016  INFO 3938 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3433 ms
+2020-06-19 14:20:37.441  INFO 3938 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-19 14:20:37.768  WARN 3938 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8090 is already in use
+2020-06-19 14:20:37.769  INFO 3938 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-19 14:20:37.773  INFO 3938 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2020-06-19 14:20:37.800  INFO 3938 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-06-19 14:20:37.806 ERROR 3938 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8090 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8090 or configure this application to listen on another port.
+
+2020-06-19 14:20:41.706  INFO 2959 --- [RMI TCP Connection(19)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-06-19 14:20:41.777  INFO 2959 --- [RMI TCP Connection(19)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-19 14:20:45.073  INFO 4094 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on laxmi-Lenovo-G50-80 with PID 4094 (/home/laxmi/Documents/workspace-spring-tool-suite-4-4.6.2.RELEASE/demo/target/classes started by laxmi in /home/laxmi/Documents/workspace-spring-tool-suite-4-4.6.2.RELEASE/demo)
+2020-06-19 14:20:45.076  INFO 4094 --- [main] com.example.demo.DemoApplication         : The following profiles are active: cleaninstall,clean install
+2020-06-19 14:20:46.401  INFO 4094 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2020-06-19 14:20:46.411  INFO 4094 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-06-19 14:20:46.412  INFO 4094 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-06-19 14:20:46.468  INFO 4094 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-06-19 14:20:46.468  INFO 4094 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1305 ms
+2020-06-19 14:20:46.659  INFO 4094 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-19 14:20:46.871  INFO 4094 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2020-06-19 14:20:46.940  INFO 4094 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 2.396 seconds (JVM running for 3.06)
+2020-06-19 14:27:27.806  INFO 4094 --- [RMI TCP Connection(14)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-06-19 14:27:28.191  INFO 4094 --- [RMI TCP Connection(14)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-19 14:38:09.667  INFO 6913 --- [main] com.example.demo.DemoApplicationTests    : Starting DemoApplicationTests on laxmi-Lenovo-G50-80 with PID 6913 (started by laxmi in /home/laxmi/Documents/workspace-spring-tool-suite-4-4.6.2.RELEASE/demo)
+2020-06-19 14:38:09.687  INFO 6913 --- [main] com.example.demo.DemoApplicationTests    : No active profile set, falling back to default profiles: default
+2020-06-19 14:38:18.412  INFO 6913 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-19 14:38:19.659  INFO 6913 --- [main] com.example.demo.DemoApplicationTests    : Started DemoApplicationTests in 11.305 seconds (JVM running for 15.348)
+2020-06-19 14:38:20.898  INFO 6913 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
