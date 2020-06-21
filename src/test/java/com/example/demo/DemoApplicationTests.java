@@ -31,7 +31,27 @@ class DemoApplicationTests {
 		student.setFee(30d);
 		studentRepository.save(student);
 	}
+
+	@Test
+	public void testFindStudentById() {
+		Student student = studentRepository.findById(7l).get();
+		System.out.println(student);
+	}
 	
+	@Test
+	public void testUpdateStudent() {
+		Student student = studentRepository.findById(7l).get();
+		student.setFee(40d);
+		
+		studentRepository.save(student);
+	}
+	
+	@Test
+	public void testDeleteStudent() {
+		Student student = new Student();
+		student.setId(8l);
+		studentRepository.delete(student);
+	}
 
 	
 }
