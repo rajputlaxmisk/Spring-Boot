@@ -12,7 +12,7 @@ import javax.persistence.Table;
 public class Student 
 {
 	@Id
-	@GeneratedValue(strategy = GenerationType.AUTO)
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private long id;
 	@Column(name="sname")
 	private String name;
@@ -42,11 +42,11 @@ public class Student
 	public void setCourse(String course) {
 		this.course = course;
 	}
-	public double getFees() {
+	public double getFee() {
 		return fee;
 	}
-	public void setFees(double fees) {
-		this.fee = fees;
+	public void setFee(double fee) {
+		this.fee = fee;
 	}
 	
 	
