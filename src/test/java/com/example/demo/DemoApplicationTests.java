@@ -12,11 +12,11 @@ class DemoApplicationTests {
 
 	//we have this by default to make sure sppring wiring is happening correctly
 	//its a simpe junit test
-	/*
+	
 	@Test
 	void contextLoads() {
 	}
-	*/
+/*
 	@Autowired
 	private StudentRepository studentRepository;
 	
@@ -52,6 +52,6 @@ class DemoApplicationTests {
 		student.setId(8l);
 		studentRepository.delete(student);
 	}
-
+*/
 	
 }
